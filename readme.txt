@@ -1,20 +1,5 @@
-Raymond Leboo
 
-Files:
-ReallyLongInt.cpp
-ReallyLongInt.hpp
-numberTheory.tpp
-numberTheory.hpp
-keygen.cpp
-encrypt.cpp
-decrypt.cpp
-ReallyLongInt_TEST.cpp
-numberTheory_TEST.cpp
-catch.hpp
-Makefile
-readme.txt
-
-This project contains many files which ultimately allow the encyption and decryption of inputed text using RSA. 'make all' will compile everything. Alternatively you can compile several individual pieces by following the steps below.
+This project allows the encyption and decryption of inputed text using RSA. 'make all' will compile everything. Alternatively you can compile several individual pieces by following the steps below.
 
 --keygen--
 To compile: make keygen
